@@ -1,0 +1,10 @@
+{
+  "name": "Working_HLA_gravity_gloves_with_wrist_pockets",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "Adds the gravity glove grab mechanic from Half-Life: Alyx. Also including functional wrist pockets",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.3",
+    "bonelib-BoneLib-3.2.2"
+  ]
+}

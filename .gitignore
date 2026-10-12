@@ -1,0 +1,7 @@
+bin/
+obj/
+release/
+tools/SynthCheck/out/
+.claude/
+.vs/
+*.user
